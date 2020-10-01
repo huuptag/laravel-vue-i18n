@@ -1,6 +1,6 @@
 # laravel-vue-i18n
 
-[![Build Status](https://travis-ci.org/github/huuptag/laravel-vue-i18n.png?branch=master)](https://travis-ci.org/github/huuptag/laravel-vue-i18n)
+[![Build Status](https://travis-ci.org/huuptag/laravel-vue-i18n.png?branch=master)](https://travis-ci.org/huuptag/laravel-vue-i18n)
 
 ## About
 
