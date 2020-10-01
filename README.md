@@ -16,7 +16,7 @@ Configuration paths have changed in Laravel 5.7, in order for this package to fu
 ## Install the package
 
 In your project:
-```composer require huule/laravel-vue-i18n-generator --dev```
+```composer require huule/laravel-vue-i18n``
 
 ### For Laravel 5.4 and below:
 For older versions of the framework:
